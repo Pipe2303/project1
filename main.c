@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("Los chiguiros son bellos\n");
-    printf("Atun\n");
+    printf("La vida es bella!!!\n");
     return(EXIT_SUCCESS);
 }
